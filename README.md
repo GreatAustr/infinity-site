@@ -1,2 +1,0 @@
-# infinity-site
-Сурсы
